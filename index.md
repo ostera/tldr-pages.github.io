@@ -4,6 +4,7 @@ layout: default
 
 > Simplified and community-driven man pages
 
+<iframe src="http://www.ostera.io/tldr.js/index.html"></iframe>
 
 ## Usage
 
