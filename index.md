@@ -4,6 +4,7 @@ layout: default
 
 > Simplified and community-driven man pages
 
+<section id="tldr"></section>
 
 ## Usage
 
