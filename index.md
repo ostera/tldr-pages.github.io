@@ -7,7 +7,7 @@ layout: default
 
 ## Usage
 
-Run in [live demo](https://ostera.github.io/tldr.js){:target="_blank"} or your terminal.
+Run in [live demo](https://ostera.github.io/tldr.jsx){:target="_blank"} or your terminal.
 
 ~~~shell
 tldr tar
@@ -27,7 +27,7 @@ You can also try other TLDR clients
 
 Client                                                                | Installation instruction
 ----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------
-[Web client](https://github.com/ostera/tldr.js)                       | try tldr on your browser [here](https://ostera.github.io/tldr.js)!
+[Web client](https://github.com/ostera/tldr.jsx)                       | try tldr on your browser [here](https://ostera.github.io/tldr.js)!
 [Node.js client](https://github.com/tldr-pages/tldr-node-client)      | ```npm install -g tldr```
 [Ruby client](https://github.com/YellowApple/tldrb)                   | ```gem install tldrb```
 [Python client](https://github.com/lord63/tldr.py)                    | ```pip install tldr.py```
