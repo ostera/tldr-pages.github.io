@@ -10,9 +10,9 @@ layout: default
 
 The TLDR pages are a community effort to simplify the beloved man pages with practical examples.
 
-Try the [live demo](https://ostera.github.io/tldr.jsx){:target="blank"} below, have a look at the [pdf version](/assets/tldr-book.pdf) or follow the [installing instructions](#cli-installation).
+Try the [live demo](http://tldr.ostera.io){:target="blank"} below, have a look at the [pdf version](/assets/tldr-book.pdf) or follow the [installing instructions](#cli-installation).
 
-<iframe src="https://ostera.github.io/tldr.jsx"
+<iframe src="http://tldr.ostera.io/tar"
         width="100%"
         height="300px"
         style="border: 1px solid"
@@ -30,7 +30,7 @@ You can also try any of the many other TLDR clients that have sprouted from the 
 
 Client | Installation instruction
 -------|-------------------------
-[Web client](https://github.com/ostera/tldr.jsx) | [the live demo](https://ostera.github.io/tldr.jsx)
+[Web client](https://github.com/ostera/tldr.jsx) | [the live demo](http://tldr.ostera.io)
 [Node.js client](https://github.com/tldr-pages/tldr-node-client) | ```npm install -g tldr```
 [Ruby client](https://github.com/YellowApple/tldrb) | ```gem install tldrb```
 [Python client](https://github.com/lord63/tldr.py) | ```pip install tldr.py```
